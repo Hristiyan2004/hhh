@@ -1,0 +1,36 @@
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Music store.exe
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Music store.deps.json
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Music store.runtimeconfig.json
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Music store.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Music store.pdb
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Index.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Register.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\refint\Music store.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.pdb
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\ref\Music store.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Login.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Guest.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Admin.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.User.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Gallery.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Pop.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music_store.Rock.resources
+C:\Users\STUDENTS-STEM-20\Desktop\10D Tihomir\Music store\Music store\obj\Debug\net7.0-windows\Music store.csproj.CopyComplete
